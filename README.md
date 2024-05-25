@@ -1,3 +1,3 @@
 # word-crawl-example-sentences
 ## About
-When learning new words, look up simple example sentences in the Oxford Dictionary and record them for review. However, it was found that it was time consuming to look up and record the example sentences manually. So I wanted to use a python crawler to grab example sentences based on the words I typed. This is what this project does.
+When I studing a new English vocabulary, I'm search some simple example sentences in the Oxford Dictionary and record them for review. However, I'm found that was cast a lots of time to record the example sentences manually. So I wanted to use a python crawler to grab example sentences based on the words I typed. This is the project does.
