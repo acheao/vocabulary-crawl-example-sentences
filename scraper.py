@@ -15,8 +15,7 @@ findBd = re.compile(r'<p class="">(.*?)</p>', re.S)
 
 def main():
 
-    words = ["indicative", "treaty", "ethic", "breakthrough", "minor", "insane", "plateau", "subjunctive", "interactions", "stagnant", "femininity", "cholera", "monster", "visibly", "miraculously", "resigned", "occasional", "tracts", "rebels", "masculinity", "gross", "spreadsheet", "hurricanes", "coupon", "clawed", "exclusive", "imperative", "stores", "intensify", "pale", "contract", "panic", "revised", "truism"
-]
+    words = ["revise", "rebel", "claw", "hurricane", "interaction", "store", "tract"]
 
     baseurl = "https://www.oxfordlearnersdictionaries.com/definition/english/{}?q={}"  #要爬取的网页链接
 
