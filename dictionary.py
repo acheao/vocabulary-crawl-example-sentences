@@ -24,7 +24,7 @@ def process_files(source_file, check_file, output_file):
 
 # 使用示例
 source_file = 'D:/workspace/vocabulary-crawl-example-sentences/check/source.csv'  # 源文件名
-check_file = 'D:/workspace/vocabulary-crawl-example-sentences/check/check.csv'     # 检查文件名
+check_file = 'D:/workspace/vocabulary-crawl-example-sentences/check/dictionary.csv'     # 检查文件名
 output_file = 'D:/workspace/vocabulary-crawl-example-sentences/check/output.csv'   # 输出文件名
 
 process_files(source_file, check_file, output_file)
