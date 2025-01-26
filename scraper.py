@@ -15,7 +15,7 @@ findBd = re.compile(r'<p class="">(.*?)</p>', re.S)
 
 def main():
 
-    words = [ "solicitous", "excise", "algebra", "frowzy", "vigor", "homotherm", "grouchy", "overfill" ]
+    words = [ "rookie", "grim", "hardliner", "trash", "behest", "nominee" ]
 
     baseurl = "https://www.oxfordlearnersdictionaries.com/definition/english/{}?q={}"  #要爬取的网页链接
 
