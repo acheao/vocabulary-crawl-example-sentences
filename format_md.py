@@ -40,7 +40,7 @@ def format_md(input_path, output_path):
 
 
 if __name__ == '__main__':
-    input_md = r"C:\Users\acheao\OneDrive\文档\language\English\material\TED\The Surprising Power of Your Nature Photos.md"   # 输入文件路径
-    output_md = "The Surprising Power of Your Nature Photos.md" # 输出 md 文件路径
+    input_md = r"C:\Users\acheao\OneDrive\文档\language\English\material\vanessa\If you know these words, your English is excellent.md"   # 输入文件路径
+    output_md = "If you know these words, your English is excellent.md" # 输出 md 文件路径
     format_md(input_md, output_md)
     print("处理完成！")
